@@ -1,6 +1,9 @@
-# API_ML_AI_Xiangnian
+<div align="center">
+  <h1>:whale2: 智能毕业纪念相册小助手：想念 :whale2:</h1>
+  <p>基于微信平台开发的 智能毕业纪念相册 小程序</p>
+  <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
+</div>
 
-基于微信平台开发的 **智能毕业纪念相册** 小程序
 
 ## PRD 价值主张设计
 
